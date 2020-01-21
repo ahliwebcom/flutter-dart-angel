@@ -4,9 +4,9 @@ belajar flutter, dart dan angel secara bertahap dari nol model AhliWeb
 ## mulai
 ### instalasi
 ### keterangan istilah 
-- istilah dalam halaman ini :
--- WS = website url
--- YT = YouTube
+istilah dalam halaman ini :
+- WS = website url
+- YT = YouTube
 
 ## peralatan
 ### backend
