@@ -31,4 +31,5 @@ istilah dalam halaman ini :
 - WS angel framework https://angel-dart.dev/
 - WS Awesome Angel https://github.com/angel-dart/awesome-angel
 - YT Angel 2.0 Tutorials https://www.youtube.com/playlist?list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6
+- YT Angel API https://www.youtube.com/watch?v=UzuecP3utk8
 
