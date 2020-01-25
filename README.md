@@ -20,6 +20,8 @@ istilah dalam halaman ini :
 - WS Flutter Framework https://flutter.dev/
 - YT Flutter Tutorial https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
 - YT Flutter Interact '19 https://www.youtube.com/watch?v=NfNdXgJZfFo&list=PLjxrf2q8roU0o0wKRJTjyN0pSUA6TI8lg
+#### flutter desktop
+- WS flutter desktop linux https://www.petanikode.com/flutter-desktop/
  
 ### dart
 - WS Dart language https://dart.dev/
